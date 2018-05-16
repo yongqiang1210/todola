@@ -1,0 +1,19 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "CRUD api for todo list",
+  "main": "i n\u001b[24~\u001bindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "  \"name\": \"todolistapi\","
+  },
+  "keywords": [
+    "\"version\":",
+    "\"1.0.0\""
+  ],
+  "author": "\"main\": \"index.js\",",
+  "license": "ISC"
+}
